@@ -83,7 +83,7 @@
                 app:summary="@string/source_code_name">
             <intent
                     android:action="android.intent.action.VIEW"
-                    android:data="https://github.com/Kr0oked/Compass" />
+                    android:data="https://github.com/ali-imanpour/Compass" />
         </Preference>
 
         <Preference
